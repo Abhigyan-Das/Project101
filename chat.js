@@ -1,6 +1,6 @@
 // Your web app's Firebase configuration
 //ADD YOUR FIREBASE LINKS HERE
-let firebaseConfig = {
+/*let firebaseConfig = {
     apiKey: "AIzaSyAsWuhpbsc1HU8TvsFsyJ15SzGgeZBC5zg",
     authDomain: "project100-5f624.firebaseapp.com",
     projectId: "project100-5f624",
@@ -10,7 +10,7 @@ let firebaseConfig = {
   };
 
 // Initialize Firebase
-firebase.initializeApp(firebaseConfig);
+firebase.initializeApp(firebaseConfig);*/
 
 function addUser()
 {
